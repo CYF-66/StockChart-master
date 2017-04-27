@@ -87,6 +87,7 @@ public class KLineActivity extends Activity {
         initChart();
         getOffLineData();
         //测试提交
+        //只commit，不push
     }
 
 
