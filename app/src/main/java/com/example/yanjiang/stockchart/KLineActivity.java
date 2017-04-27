@@ -86,6 +86,7 @@ public class KLineActivity extends Activity {
         ButterKnife.bind(this);
         initChart();
         getOffLineData();
+        //测试提交
     }
 
 
