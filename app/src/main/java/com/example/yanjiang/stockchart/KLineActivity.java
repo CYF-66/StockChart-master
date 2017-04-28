@@ -87,7 +87,7 @@ public class KLineActivity extends Activity {
         initChart();
         getOffLineData();
         //测试提交
-        //只commit，不push,push到服务器GitHub上
+        //只commit，不push,push到服务器GitHub上。ddddddddddd
     }
 
 
